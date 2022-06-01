@@ -1,12 +1,12 @@
 import './HomePage.css';
 import { React, useState } from 'react';
-import booked from './assets/undraw_Booked_j7rj.svg';
+// import booked from './assets/undraw_Booked_j7rj.svg';
 import creative_team from './assets/undraw_creative_team_r90h.svg';
-import different_love from './assets/undraw_different_love_a3rg.svg';
-import download from './assets/undraw_download_pc33.svg';
+// import different_love from './assets/undraw_different_love_a3rg.svg';
+// import download from './assets/undraw_download_pc33.svg';
 import right_places from './assets/undraw_right_places_h9n3.svg';
-import schedule from './assets/undraw_schedule_pnbk.svg';
-import scrum_board from './assets/undraw_scrum_board_cesn.svg';
+// import schedule from './assets/undraw_schedule_pnbk.svg';
+// import scrum_board from './assets/undraw_scrum_board_cesn.svg';
 
 const HomePage = () => {
   const [signIn, setSignIn] = useState(true);
